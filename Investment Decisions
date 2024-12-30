@@ -1,6 +1,5 @@
 import tweepy
 import random
-
 # Twitter API credentials - Replace with your own
 api_key = "YOUR_API_KEY"
 api_secret = "YOUR_API_SECRET"
