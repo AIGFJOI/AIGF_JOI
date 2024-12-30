@@ -1,4 +1,4 @@
-![image]((https://github.com/user-attachments/assets/bbd841c1-9a81-4da4-9334-72548e63bad4)
+![image](https://github.com/user-attachments/assets/bbd841c1-9a81-4da4-9334-72548e63bad4)
 AIGF, choose your favorite AI girlfriend, provide the most enthusiastic support, and help you start your own #AIAgent#AI investment decision💋🤖
 AIGF is a revolutionary artificial intelligence companion designed to meet the human need for emotional connection and companionship.
 She was born in a highly technological future society and aims to provide users with warmth and practicality. 
