@@ -1,12 +1,5 @@
 from moviepy.editor import *
 import textwrap
-# Story plot - This would typically come from your narrative system or be hardcoded
-story_plot = """
-Lisa, an adventurer, enters a dark cave seeking treasure. 
-She lights her torch, revealing ancient carvings and a sleeping dragon. 
-She quietly navigates past the dragon to find a chest filled with gold.
-"""
-
 # Function to convert text to speech - placeholder for actual TTS implementation
 def text_to_speech(text, output_file):
     # Here you would implement or call your TTS service
