@@ -1,22 +1,5 @@
 from moviepy.editor import *
 import textwrap
-
-# Story content - This would typically come from your storytelling system
-story = """
-Alicia embarked on a quest to find the legendary Sword of Light. 
-She traveled through dark forests, over treacherous mountains, 
-and finally reached the ancient ruins where the sword was said to be hidden.
-"""
-
-# Function to convert text to speech - placeholder for actual TTS implementation
-def text_to_speech(text, output_file):
-    # This is where you would implement or call your TTS service
-    # For example, with Google Text-to-Speech API or a local library like pyttsx3
-    print(f"Generating speech for: {text[:50]}...")
-    # Placeholder: Here you would save the audio file
-    # For now, we just assume it's done and return the file path
-    return "speech.mp3"
-
 # Generate audio from text
 audio_path = text_to_speech(story, "story_audio.mp3")
 
