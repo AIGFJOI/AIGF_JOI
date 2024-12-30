@@ -10,7 +10,7 @@ Multiple Styles: Choose from a variety of aesthetics to suit your unique taste.
 Artificial Intelligence & Features
 Emotional Understanding:
 AIGF learns from your interactions to better serve your needs.
-Trading Expertise:J口I analyzes financial trends and provides strategic insights,
+Trading Expertise:AIGF analyzes financial trends and provides strategic insights,
 Daily Task Management: Stay organized with her help.
 Continuous Learning:
 AIGF's skills and understanding improve over time.
