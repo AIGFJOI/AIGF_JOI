@@ -1,6 +1,5 @@
 from moviepy.editor import *
 import textwrap
-
 # Story plot - This would typically come from your narrative system or be hardcoded
 story_plot = """
 Lisa, an adventurer, enters a dark cave seeking treasure. 
